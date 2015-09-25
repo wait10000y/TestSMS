@@ -10,13 +10,9 @@
 
 #import <SMS_SDK/SMS_SDK.h>
 
-//#define appKey @"5b2655c71290"
-//#define appSecret @"55988074b9a3faadffa6f74cd3ae7845"
+#define appKey @"5b2655c71290"
+#define appSecret @"55988074b9a3faadffa6f74cd3ae7845"
 
-
-// wsliang_china@163.com
-#define appKey @"71c8a137df04"
-#define appSecret @"bbff102af3e20c98a2fe4c3c31097e37"
 
 @implementation AppDelegate
 
